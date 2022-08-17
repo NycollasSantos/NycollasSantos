@@ -2,14 +2,14 @@
 <h1 align="center">👋Olá Mundo! Eu sou Nycollas!</h1>
 
 
-<h3 align="center"> Dev Front end | Criador conteúdo de programação e tecnologia!</h3>
+<h3 align="center"> Dev Front end | Criador de conteúdo de programação e tecnologia!</h3>
 
 ##
 
 <div align="center">
   <a href="hhttps://github.com/NycollasSantos">
-  <img height="180em" width="440" src="https://github-readme-stats.vercel.app/api?username=NycollasSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="440" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycollasSantos&layout=compact&langs_count=7&theme=dark"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NycollasSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NycollasSantos&layout=compact&langs_count=7&theme=dark"/>
    <br>
    <img align="center" alt="Nycollas-html" height="50" width="120" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Nycollas-CSS" height="50" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
