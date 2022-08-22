@@ -32,7 +32,7 @@
   <a href="https://www.youtube.com/channel/UC9ffUKrx6ueEx5-Zr2pK5EQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
   <a href="https://www.instagram.com/eusounycollas/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a> 
-  <a href="https:www.linkedin.com/in/nycollas-santos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nycollas-santos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/NycollasSantos/NycollasSantos/blob/output/github-contribution-grid-snake.svg)
  
